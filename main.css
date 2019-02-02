@@ -131,6 +131,6 @@ p {
   }
 
   .my-youtube {
-    text-decoration: transparent;
+    text-decoration: none;
     -webkit-text-fill-color: rgb(25, 90, 90);
   }
